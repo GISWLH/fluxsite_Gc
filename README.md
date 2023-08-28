@@ -1,5 +1,11 @@
 # fluxsite_Gc
+## citation
+
+1. Wang, L., Zhang, Y., Ma, N., Song, P., Tian, J., Zhang, X., & Xu, Z. (2023). Diverse responses of canopy conductance to heatwaves. *Agricultural and Forest Meteorology*, *335*, 109453. https://doi.org/10.1016/j.agrformet.2023.109453
+2. Wang, L., & Jin, J. (2021). Uncertainty Analysis of Multisource Land Cover Products in China. *Sustainability*, *13*(16), 8857. https://doi.org/10.3390/su13168857
+
 ## variable
+
 * Date date of specific year
 * pecp precipitation
 * Gc canopy conductance
