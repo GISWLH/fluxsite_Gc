@@ -5,5 +5,4 @@
 * Gc canopy conductance
 * hw whether heatwave day
 * indensity heatwave indensity
-* sen sensitivity
 * Tavg daily mean temperature
