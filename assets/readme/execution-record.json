@@ -1,0 +1,49 @@
+{
+  "repo": "GISWLH/fluxsite_Gc",
+  "environment": "EHPC PBS",
+  "execution_scope": "New diagnostic of the original flux_sample.csv input table. Sample composition and temperature/latent-heat values are shown; the R/PML canopy-conductance inversion was not run.",
+  "exit_code": 0,
+  "output": {
+    "path": "assets/readme/execution-result.png",
+    "sha256": "49d0b4ab515a8f65835c0aa6b832aba5658f6747c9f076c2dc318478ca19012c"
+  },
+  "python": "3.11.9 (main, Apr 19 2024, 16:48:06) [GCC 11.2.0]",
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "matplotlib": "3.9.4",
+    "scipy": "1.13.1",
+    "scikit-learn": "1.5.2",
+    "seaborn": "0.13.2",
+    "shap": "0.46.0",
+    "numba": "0.60.0",
+    "xgboost": "1.7.6",
+    "torch": "2.2.2+cpu",
+    "cartopy": "0.23.0",
+    "shapely": "2.0.6",
+    "pyproj": "3.6.1",
+    "requests": "2.32.4"
+  },
+  "started_at_utc": "2026-10-17T17:40:10.743478+00:00",
+  "finished_at_utc": "2026-10-17T17:40:12.059519+00:00",
+  "elapsed_seconds": 1.316040500998497,
+  "source_files": [
+    {
+      "path": "demo.py",
+      "sha256": "f1c1c1a754020f3fbce6a32f933b34f712ef764b184b8a6585e3c9e8b25b09d4",
+      "bytes": 1456
+    }
+  ],
+  "input_files": [
+    {
+      "path": "input-manifest.json",
+      "sha256": "60c868376769e24f308ca0f3b0ec4ca26038fda0f46e147f816c6872f6bf84d4",
+      "bytes": 338
+    },
+    {
+      "path": "data/flux_sample.csv",
+      "sha256": "e01ab0ddedd926d9fe7bf4628ab1673593912be20bd0bfdf618e79ca3b3a427d",
+      "bytes": 714285
+    }
+  ]
+}

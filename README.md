@@ -65,3 +65,14 @@ PMLV2_ Parameters_ TERRA_ Rm_ Pro_ Smooth_ GEE is a parameter table correspondin
 <!-- readme-visual-refresh:artwork-source -->
 [Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
 <!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:execution -->
+## Demonstration captured on EHPC · 17 October 2026
+
+![New diagnostic of the original flux_sample.csv input table. Sample composition and temperature/latent-heat values are shown; the R/PML canopy-conductance inversion was not run.](assets/readme/execution-result.png)
+
+New diagnostic of the original flux_sample.csv input table. Sample composition and temperature/latent-heat values are shown; the R/PML canopy-conductance inversion was not run.
+
+[Execution record and checksums](assets/readme/execution-record.json).
+<!-- /readme-visual-refresh:execution -->
