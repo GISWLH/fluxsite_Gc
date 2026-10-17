@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![fluxsite_Gc — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # fluxsite_Gc
 ## citation
 
@@ -58,3 +62,6 @@ LAI, Albedo, and Emiss are time series that I extracted from GEE and need to be 
 
 PMLV2_ Parameters_ TERRA_ Rm_ Pro_ Smooth_ GEE is a parameter table corresponding to different land cover types
 
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
